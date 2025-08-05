@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Ignore YOLO model files
+*.pt
+
+# VS Code files
+.vscode/
+
